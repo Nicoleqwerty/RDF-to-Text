@@ -1,6 +1,7 @@
 # README #
 
-This is the code for: 
+This is the code for: RDF-to-Text Generation with Graph-augmented Structural Neural Encoders (IJCAI 2020)
+
 
 ### WebNLG Dataset1 preprocess ###
 
